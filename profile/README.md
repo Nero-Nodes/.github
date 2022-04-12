@@ -12,8 +12,8 @@
 
 ### Statistics and Information
 - <strong>99.95% uptime</strong> across all services
-- <strong>1500+</strong> Servers Deployed
-- <strong>1300+</strong> Unique Users
+- <strong>1700+</strong> Servers Deployed
+- <strong>1500+</strong> Unique Users
 
 <br/>
 
